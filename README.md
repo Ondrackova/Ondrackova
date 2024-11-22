@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Zuzana Ondrackova.
-- 👀 I’m interested in testing more demanding systems and software.
-- 😄 I'm a perfectionist and I don't like to give up.
+- 💕 I’m interested in testing more demanding systems and software.
+- 😄 I'm a perfectionist.
+- 💪 I don't like to give up. I'm working until everything is ready.
 
 
 <!---
